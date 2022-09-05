@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+    outline: 0;
+}
+.titulo{
+    color:rgb(255, 0, 0);
+    background-color: black;
+    display: inline;
+    margin:0px 0px 0px 20px;
+}
+.body{
+    background-color: rgb(79, 79, 79);
+}
+
+.logo{
+    margin: 30px 20px 0px 1500px;
+    width: 60px;
+
+}
+.cabeçalho{
+    background-color: black;
+    padding-bottom: 40px;
+}
+.texto{
+    margin-bottom: 20px;
+}
